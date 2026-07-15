@@ -1,0 +1,1 @@
+Place the primary Bobcat construction hero image in this folder and name it bobcat-hero.jpg.
