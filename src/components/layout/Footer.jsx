@@ -8,8 +8,8 @@ export default function Footer() {
         </div>
         <div>
           <p>(424) 503-9263</p>
-          <p>MoenationEnterprise@gmail.com</p>
-          <p>Moenation.com</p>
+          <p>projects@MoenationBobcat.com</p>
+          <p>MoenationBobcat.com</p>
         </div>
       </div>
     </footer>
